@@ -1,0 +1,8 @@
+type conversion you change the type of data manually 
+like : Number ("7")
+
+coercion when u put a number and astring js covert the number into string to print the output 
+like : let num = 7
+       let str = "7"
+       console.log(num + str ) 
+output = "77"

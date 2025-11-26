@@ -1,0 +1,2 @@
+foreach : works only with arrays and used to do a function to every single elment in the array
+for of :works wtih anything iterable to iterate over elmentsand give you the value

@@ -1,0 +1,9 @@
+hoisting is to left declared variable to the top of the scope but not the assigned value so it prints undefined 
+like 
+
+console.log(msg)
+
+var msg = "spa7o"
+
+and in let and const they are hoisted too and  gives error because of the tdz u can't use a varibale before the line u wrote it in 
+ 
