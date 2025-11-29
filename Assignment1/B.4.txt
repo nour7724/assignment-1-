@@ -1,3 +1,0 @@
-try and catch : are used in case an error happend in normal or async functions control what happens when an error occurs
-to prevent server crash
- 
